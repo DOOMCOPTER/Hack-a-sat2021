@@ -7,3 +7,4 @@ Areas covered will include:
 1. Hack-a-sat 2020 Challenges and Writeups.
 2. Common resources for satellite security, protocols, and technology.
 3. Useful tools.
+4. Competition Information, Rules, Prizing, etc.
