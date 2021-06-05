@@ -4,6 +4,6 @@ This repository is meant to serve as a knowledge base for the upcoming Hack-a-sa
 
 
 Areas covered will include:
-Hack-a-sat 2020 Challenges and Writeups.
-Common resources for satellite security, protocols, and technology.
-Useful tools.
+1. Hack-a-sat 2020 Challenges and Writeups.
+2. Common resources for satellite security, protocols, and technology.
+3. Useful tools.
