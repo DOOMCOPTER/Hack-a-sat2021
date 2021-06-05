@@ -13,10 +13,16 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 
 ## RESOURCES
 
+### Forums
+
+Satellite Hacking https://forum.defcon.org/node/231910
+
+Aerospace Village https://forum.defcon.org/node/231075
+
 ### Hack A Sat Workshops
 We are bringing a series of interactive workshops to DEF CON in complete Safemode via Twitch. Check out our vibrant, web-based virtual reality environment to access the workshops at [dds-virtual.com](https://dds-virtual.com/), otherwise, see the [github repo](https://github.com/deptofdefense/dds-at-DEFCON/blob/master/README.md) for the deets on game play for each of the work shops!
 
-### Hack A Sat Challenges 
+### Hack A Sat Challenges
 
 - [Hack A Sat Qualifier Challenges](https://github.com/deptofdefense/HAS-Qualifier-Challenges) : Public version of the qualifier challenges from HAS 2020
 
@@ -111,9 +117,9 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 (https://ohaithe.re/post/619784043448418304/hack-a-sat-ctf-writeup-my-0x20-aka-myspace)
 - Hack-A-Sat 2020: Sun? On my Sat? [Writeup] by OH starfleetcadet75
 (https://starfleetcadet75.github.io/writeups/2020/06/05/sun-on-my-sat.html)
-- Vaporsec CTF team from DC 858/619 summarizes the event and lessons learned (https://www.facebook.com/DC858/videos/281579856584929/) 
+- Vaporsec CTF team from DC 858/619 summarizes the event and lessons learned (https://www.facebook.com/DC858/videos/281579856584929/)
 - LaunchLink - Hack-A-Sat Quals 2020 [Writeup] by erfur (https://erfur.github.io/LaunchLink_Hackasat/)
-- Leaky Crypto - Hack-A-Sat Writeup: [Writeup] by ADDVulcan (https://github.com/ADDVulcan/ADDVulcan/tree/master/Payload%20Modules/Leaky%20Crypto) 
+- Leaky Crypto - Hack-A-Sat Writeup: [Writeup] by ADDVulcan (https://github.com/ADDVulcan/ADDVulcan/tree/master/Payload%20Modules/Leaky%20Crypto)
 - Qualification and final write-ups [Writeup] by Solar Wine (https://github.com/solar-wine/writeups/)
 
 [<<<Back to Top](#hack-a-sat-resource-library)
