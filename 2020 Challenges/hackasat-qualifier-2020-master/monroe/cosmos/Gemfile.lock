@@ -35,7 +35,7 @@ GEM
       yard (~> 0.9.11)
     puma (3.12.4)
     qtbindings (4.8.6.5)
-    rack (2.2.2)
+    rack (2.2.6.2)
     rake (13.0.1)
     rdoc (6.2.1)
     ruby-termios (0.9.6)
